@@ -1,0 +1,66 @@
+body{
+  font-family: 'Vina Sans', sans-serif;
+  background-image: url('https://www.ada.edu.az/frq-content/plugins/about_content_x1/entry/20200513131135_88907000.jpg');
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+header{
+  border: 2px solid red;
+}
+header img {
+    width: 30%;
+    height: 25%;
+    margin-left: 35%;
+    border-radius: 50%;
+}
+header a {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #ff6f61;
+}
+header h1 {
+    color: #333;
+    text-align: center;
+}
+p{
+  font-weight: bold;
+}
+.team-info {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.team-info h2 {
+    color: #333;
+}
+
+.team-info p {
+    font-family: "Times New Roman", Times, serif;
+    color: #666;
+}
+footer {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  bottom: 0;
+  width: 100%;
+}
+footer img {
+  width: 20px; 
+  height: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}

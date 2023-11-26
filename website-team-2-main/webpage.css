@@ -1,0 +1,38 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  background: url('media/Ada_bg.jpg');
+  background-size: cover;
+  color: white;
+}
+
+h1, h2, p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  align-items: center;
+  line-height: 1.4;
+}
+
+.Informations {
+  width: 1000px;
+  margin: 15px auto;
+  background-color: dimgrey;
+  padding: 35px;
+}
+
+.sections {
+  padding: 20px;
+  border: 2px solid lightgrey;
+  align-items: center; 
+  text-align: center; 
+  background-color: white;
+}
+
+.sections h2 {
+  color: black;
+}
+
+.sections p {
+  color: gray;
+}

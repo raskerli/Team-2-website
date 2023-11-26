@@ -1,0 +1,29 @@
+*{
+font-family: sans-serif;
+}
+h1{
+  text-align: center;
+}
+footer img{
+  display: block;
+  width: 700px ;
+  height: 360px;
+  float: right;
+  transition: 100s;
+  position: 100;
+  margin-right: 102 ;
+  bottom: 500;
+  margin-bottom: 75px;  
+}
+video{
+  display: block;
+  width: 700px ;
+  height: 360px;
+  margin-left: 102 ;
+  bottom: 500;
+}
+body{
+  background-image: url(media/987c26f48039e7572dd397e965ebaf1d.jpg);
+  background-size:cover;
+    
+}
